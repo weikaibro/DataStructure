@@ -1,4 +1,4 @@
-# DataStructure
+# NCKU_DataStructure_HW
 A series of data structure assignments in College.
 
 ## hw1 _ Array and Insertion Sort
